@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorText">#000000</color>
+    <color name="colorTitle">#000000</color>
+    <color name="colorBaner">#8D938D</color>
+
+    <color name="colorPrimary">#4E4E4E</color>
+    <color name="colorSecond">#3D4540</color>
+
+
+    <color name="colorNotPressed">@color/colorSecond</color>
+
+
+    <color name="colorBaner2">#C5C5C5</color>
+    <color name="colorBaner3">#B6BCB0</color>
+    <color name="colorPrimaryDark">#95B734</color>
+    <color name="colorAccent">#C33711</color>
+
+    <color name="colorHint">#C1BABA</color>
+
+
+    <color name="color2Pregunta">#201001</color>
+    <color name="colorPregunta">#95B734</color>
+    <color name="colorRespuesta">#000000</color>
+    <color name="colorBlanco">#FFFFFF</color>
+    <color name="color_fondo_alterno">#F6FDF6</color>
+    <color name="colorSubtitulo">#000000</color>
+
+    <color name="colorLista0005">#090808</color>
+    <color name="colorBackground_1">#EAEEE8</color>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextAppearance.Text" parent="Theme.AppCompat">
+        <item name="android:textColor">@color/colorText</item>
+        <item name="android:fontFamily">@font/script</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+
+    <style name="TextAppearance.Title" parent="TextAppearance.AppCompat.Title">
+        <item name="android:textColor">@color/colorTitle</item>
+        <item name="android:fontFamily">@font/script</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+</resources>
